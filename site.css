@@ -1,0 +1,21 @@
+body {
+	background-color: black;
+	font-family: Sans-Serif;
+	font-size: 8vh;
+}
+
+.row {
+	display: flex;
+	justify-content: center;
+}
+
+.cc {
+	width: 8vh;
+	text-align: center;
+	color: #252525;
+}
+
+.lit {
+	color: white;
+	font-weight: bold;
+}
